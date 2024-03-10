@@ -8,7 +8,7 @@ export default function Layout() {
         <Link className="link-log">Log in</Link>
         <p className="link-guest">Continue as a <Link className="guest">guest</Link></p>
         <video playsInline autoPlay muted loop>
-            <source src="../videos/kinaji.mp4"/>
+            <source src="https://player.vimeo.com/video/921767718?h=38ec44c73a"/>
         </video>
     </main>
   );
